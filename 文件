@@ -1,0 +1,16 @@
+Github: https://github.com/Miling-000/1151VR-HW1-414262155--.git
+Youtube: https://youtu.be/jDd03qivSf0
+
+影片內容操作方式:
+1.	移動鏡頭並儲存
+2.	打開Game mode確認鏡頭移動
+3.	移動物件並儲存
+4.	打開Game mode確認物件移動
+
+課程內容專案建立:
+1.	在Unity開啟new project
+2.	在Unity Scene開啟3D檔案(記得解壓縮)
+3.	在github開啟new project
+4.	在github上開一個Unity的respository
+5.	在github放入A(Assets)、P(Packages)、P(ProjectSettings)檔案
+6.	檔案上傳完成記得儲存
